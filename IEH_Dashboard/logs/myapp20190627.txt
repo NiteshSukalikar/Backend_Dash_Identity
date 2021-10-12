@@ -1,0 +1,5 @@
+2019-06-27 17:55:14.924 +05:30 [INF] Hello, world!
+2019-06-27 17:55:15.785 +05:30 [DBG] Dividing 10 by 0
+2019-06-27 17:55:15.803 +05:30 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at Sulu_CRM_AdminDashboard.API.Program.Main(String[] args) in D:\DayUsers\Inchora\Inchora Project Code\Inchora-Backend-Git\Sulu_CRM_AdminDashboard.API\Program.cs:line 24
